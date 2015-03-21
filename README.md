@@ -2,6 +2,7 @@ Autosense
 =========
 
 First, for updates and support please visit us at http://www.autosenseapp.com
+
 You can directly download the apk from here http://www.autosenseapp.com/apk/Autosense-paid-community.apk
 
 For a number of reasons I have decided to migrate the Autosense codebase away from Github.  
